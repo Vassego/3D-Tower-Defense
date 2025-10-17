@@ -43,10 +43,15 @@ The game supports three levels of difficulty: **Easy**, **Medium**, and **Hard**
 > **Warning**: The quality of the screenshots may not be optimal as they were captured from a video of smaller resolution.
 
 <img width="1121" height="787" alt="start" src="https://github.com/user-attachments/assets/99cdd403-0e09-44ed-b8a4-3c609c723170" />
+
 <img width="1122" height="784" alt="start2" src="https://github.com/user-attachments/assets/edf7e7b8-8256-4643-8811-cd4f8a6d793d" />
+
 <img width="1117" height="782" alt="start2 5" src="https://github.com/user-attachments/assets/068be582-b3b2-4bad-9611-579ce6ecdc9c" />
+
 <img width="1118" height="783" alt="start3" src="https://github.com/user-attachments/assets/f82cb43e-c7a0-41ac-a9e9-ca1cfc191044" />
+
 <img width="1118" height="786" alt="start3 5" src="https://github.com/user-attachments/assets/efbee021-8ff4-46ae-8619-fada8b8a6b17" />
+
 <img width="1123" height="788" alt="gameover" src="https://github.com/user-attachments/assets/b13c79f4-4349-4a69-a7e3-c282e1f1f485" />
 
 
